@@ -19,3 +19,7 @@ note to dev fast:
   - data analysis project here , maybe in apps so it has content
 
 this program need an sql database and classic db setting 
+
+# sentence to array
+
+old program not revelant anymore 
